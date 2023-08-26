@@ -1,14 +1,20 @@
-## Kinglet Crest
+## Kinglet Crest 𓅨𓅪
 
 This is a org set up for managing my homelab via Tailscale. Plz ignore.
 
-<!--
+☁︎｡.·°˚˖✦.｡⋆ ﾟ⁺˚⋆｡✩₊˚. ✦· ﾟ⁺˖.˚. ✦.˳·˖ °✩˖.·⁺ ﾟ˖.✶⁺⋆.✧˚.⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆｡⁺˚｡ °✩₊ ﾟ☁︎｡ ⋆｡ ﾟ˚. ✦.˳·˖ ݁ ˖⁺·˖✶ · ﾟ⁺˖.✦˖⋆ ﾟ.✧˚.𖥔 ݁ ˖.⁺˚⋆｡ °✩₊ ﾟ⁺·˖✦ ݁ ˖⁺·˖⋆ ݁ 
 
-**Here are some ideas to get you started:**
+```console
+skullbunnygalaxy@github:~>>  ./shhhhhh.sh
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  /￣￣￣￣￣￣￣\
+ |  Nothing  | 
+ |  to see.  |
+  ╲_____    ╱
+       | ╱￣
+  ᕱ ͜ᕱ|╱    ᕱ_ᕱ
+ (⋂༝•╭╮)   (•ㅅ•)  
+ ╱ ⎠ ⎝⎝╲𝔍  /  　\ℑ
+       
+```
+𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝
